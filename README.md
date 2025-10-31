@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 - 🎓 Bachelor's in Artificial Intelligence And Machine Learning
 
 ## 🏆 Achievements & Certifications
-- 📜 [Data Analytics Short-Term Internship] – [View](https://drive.google.com/file/d/1OG8r2JxamHBr6s2PSEQ46PTcf00CERAS/view?usp=sharing)
-- 📜 [Data Analytics Certification] - [View](https://drive.google.com/file/d/1hPJBciMIsjc-uDhHf5JIui1HrGyos77M/view?usp=sharing)
+- 📜 [Data Analytics Certification] – [View](https://drive.google.com/file/d/1OG8r2JxamHBr6s2PSEQ46PTcf00CERAS/view?usp=sharing)
+- 📜 [Data Analytics Internship] - [View](https://drive.google.com/file/d/1hPJBciMIsjc-uDhHf5JIui1HrGyos77M/view?usp=sharing)
 
 ## 🛠 Tools and Languages
 ![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
