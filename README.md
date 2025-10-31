@@ -13,22 +13,21 @@ Welcome to my GitHub profile! I'm passionate about using data analytics to solve
 ## 🛠 Tools and Languages
 ![Excel](https://img.shields.io/badge/Excel-0078D4?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📂 Projects
-- 📊 [Netflix-Analysis](https://github.com/nitya-sri27/Netflix-Analysis) – Analyzed Netflix’s dataset using Python to explore content trends, genre distribution and etc.Created visualizations to provide insights into how Netflix’s global content strategy has evolved over time.
-- 📊 [Insurance-Risk & Claims-Analysis](https://github.com/nitya-sri27/Insurance-Risk-Claims-Analysis) – An interactive Power BI dashboard analyzing insurance claims data, highlighting total policies, claim patterns, and trends. Helps identify high-risk segments and supports data-driven decision-making.
-- 📊 [British-Airways-Reviews](https://github.com/nitya-sri27/British-Airways-Report) – This project is about analyzing customer reviews for British Airways using Tableau. The dashboard visualizes passenger feedback and trends, helping the airline understand customer opinions and enhance its services.
+- 📊 [Amazon-Prime-Dashboard](https://github.com/YasasriSaiMaka/Amazon-Prime-Dashboard) – Analyzed Amazon Prime Video dataset in Power BI to visualize content distribution, genres, and ratings, providing insights into platform trends and audience preferences.
+- 📊 [Superstore-Report](https://github.com/YasasriSaiMaka/Superstore-Report) – Explored Superstore sales data with Power BI to identify revenue patterns, customer behavior, and category-wise performance using data-driven visualizations.
+- 📊 [Amazon-Sales-Dashboard](https://github.com/YasasriSaiMaka/Amazon-Sales-Dashboard) – Analyzed Amazon store sales data using Power BI to uncover insights on product performance, profit trends, and regional sales distribution through interactive dashboards.
 
 ## 📬 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitya-sri-822559255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/nekkantinityasri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nekkantinityasri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasasri-sai-maka-ab4974260/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/yasasrimaka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasasri.maka@gmail.com)
 
 </div>
 
